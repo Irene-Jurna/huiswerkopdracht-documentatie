@@ -24,3 +24,14 @@
 3. De app moet veilig zijn, vooral rond personeelsgegevens. 
 4. De app moet beschikbaar zijn op desktop, tablet en mobiel. 
 5. De app moet beveiligde toegang hebben met inlog-rollen.
+
+## Klassen
+Note: Ik heb ervoor gekozen de klassenamen in het Nederlands te doen, omdat het om een Nederlandse winkel gaat en de productten heel specifiek zijn (ik zou niet direct weten hoe een muurbeugel in het Engels heet). 
+
+1. Product (superklasse, met subtypes)
+2. TV, Afstandsbediening, Muurbeugel, CI-module (subklassen Product)
+3. Gebruiker (superklasse)
+4. Personeelslid, Eigenaar (subklassen Gebruiker)
+5. Verkoop (bijhouden wat er verkocht is)
+6. ProductRelatie (compatibiliteit producten)
+7. ProductLocatie (plek in het magazijn of in de winkel)
