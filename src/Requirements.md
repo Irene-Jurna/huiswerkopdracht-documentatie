@@ -32,6 +32,4 @@ Note: Ik heb ervoor gekozen de klassenamen in het Nederlands te doen, omdat het 
 2. TV, Afstandsbediening, Muurbeugel, CI-module (subklassen Product)
 3. Gebruiker (superklasse)
 4. Personeelslid, Eigenaar (subklassen Gebruiker)
-5. Verkoop (bijhouden wat er verkocht is)
-6. ProductRelatie (compatibiliteit producten)
-7. ProductLocatie (plek in het magazijn of in de winkel)
+5. ProductLocatie (plek in het magazijn of in de winkel)
